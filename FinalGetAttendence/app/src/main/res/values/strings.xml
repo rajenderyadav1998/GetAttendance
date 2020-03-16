@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">GetAttendence</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="branch">
+        <item>Computer Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Electronic and Communication Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Polymer Technology</item>
+    </string-array>
+    <string-array name="semister">
+        <item>Semister 1</item>
+        <item>Semister 2</item>
+        <item>Semister 3</item>
+        <item>Semister 4</item>
+        <item>Semister 5</item>
+        <item>Semister 6</item>
+    </string-array>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="sign_up">SignUp</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="leave">Leave</string>
+    <string name="about">“GET Attendance” is a Software developed for daily student attendance in colleges and institutes. It facilitates to access the attendance information of a particular student in a particular class. The information is sorted by the operators, which will be provided by the teacher for a particular Branch. This system will also help in evaluating attendance eligibility criteria of a student.
+  The purpose of developing  “GET Attendance” is to computerized the tradition way of taking attendance.
+
+  The scope of the project is the system on which the software is installed, i.e. the project is developed as a mobile application, and it will work for a particular College. But later on the project can be modified with more features.
+        This Project is Developed by Rajender,Ravi,Rohit
+</string>
+
+</resources>

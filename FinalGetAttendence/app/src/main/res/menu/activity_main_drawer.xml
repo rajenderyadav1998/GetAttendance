@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_student"
+            android:icon="@mipmap/studentimage"
+            android:title="Student" />
+        <item
+            android:id="@+id/nav_attendence"
+            android:icon="@mipmap/attendance_icon"
+            android:title="Attendence" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@mipmap/about"
+            android:title="About!!!!!" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@mipmap/viewicon"
+                android:title="View Student" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@mipmap/logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>
